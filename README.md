@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on cleaning and preparing housing data from the "Housing-Data-Cleaning-Porject" database, specifically the "nashvilleHousing" table. The data cleaning process involves addressing issues such as date formatting, handling missing values, populating null addresses, splitting address and owner information, and transforming categorical data.
+This project focuses on cleaning and preparing housing data from the "Housing-Data-Cleaning-Project" database, specifically the "nashvilleHousing" table. The data cleaning process involves addressing issues such as date formatting, handling missing values, populating null addresses, splitting address and owner information, and transforming categorical data.
 
 # Data Cleaning Steps
 
